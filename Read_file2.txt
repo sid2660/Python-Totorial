@@ -1,0 +1,4 @@
+Siddhartha your salary is 100
+Mohit your salary is 50
+Rohit your salary is 200
+Nitish your salary is 500

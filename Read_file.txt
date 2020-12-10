@@ -1,0 +1,4 @@
+Siddhartha,100
+Mohit,50
+Rohit,200
+Nitish,500
